@@ -1,0 +1,1 @@
+/Users/mac/Desktop/rst-proj/learn/small_database10/target/debug/small_database10: /Users/mac/Desktop/rst-proj/learn/small_database10/src/main.rs /Users/mac/Desktop/rst-proj/learn/small_database10/src/utils.rs
